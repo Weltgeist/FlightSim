@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1555738546 source:j:\git\software\cpp\flightsim\src\input.cpp
+	"Input.h"
+
+1555738341 j:\git\software\cpp\flightsim\include\input.h
+
+1555740859 source:j:\git\software\cpp\flightsim\src\plane.cpp
+	"Plane.h"
+
+1555739365 j:\git\software\cpp\flightsim\include\plane.h
+	<iostream>
+	"constant.h"
+	"Input.h"
+
+1555735702 j:\git\software\cpp\flightsim\include\constant.h
+
+1555740668 source:j:\git\software\cpp\flightsim\main.cpp
+	<iostream>
+	"include/Input.h"
+	"include/Plane.h"
+	<unistd.h>
+

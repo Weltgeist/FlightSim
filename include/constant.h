@@ -1,0 +1,7 @@
+#ifndef CONSTANT_H_INCLUDED
+#define CONSTANT_H_INCLUDED
+
+enum State { GROUND, FLIGHT, FALL, CRUISE};
+
+
+#endif // CONSTANT_H_INCLUDED
